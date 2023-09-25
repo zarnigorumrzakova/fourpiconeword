@@ -79,5 +79,23 @@ letters: ['w','s','a','t','l','e','d','p','k','f','b','e'],
   word: 'zebra',
     letters: ['e','h','l','b','a','t','m','z','h','e','r','y'],
   ),
+  Question(images: [
+    'assets/images/home1.png',
+    'assets/images/home2.png',
+    'assets/images/home3.png',
+    'assets/images/home4.png',
+  ],
+    word: 'home',
+    letters: ['e','h','l','b','a','t','m','z','h','e','r','o'],
+  ),
+  Question(images: [
+    'assets/images/book1.png',
+    'assets/images/book2.png',
+    'assets/images/book3.png',
+    'assets/images/book4.png',
+  ],
+    word: 'book',
+    letters: ['e','o','l','b','a','t','o','z','h','e','r','k'],
+  ),
 ];
 
